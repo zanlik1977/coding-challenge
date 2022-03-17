@@ -56,3 +56,9 @@ original service unchanged as much as possible, and follow the instructions full
 
     You can run the server simply with `go run .` in the projects directory.
     You can run the tests simply with `go test` in the projects directory.
+    
+    
+## Final note
+
+    Overall, I have enjoyed working on this challenge.
+    Also, I'm aware I could have done a better job with error handling and perhaps some methods could be broken into more.....
